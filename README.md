@@ -4,4 +4,4 @@ $ cd project-name
 $ npm install or yarn
 $ npm start or yarn start
 ```
-## https://sell-a-course.netlify.app/
+### https://sell-a-course.netlify.app/
